@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "700,000,000,000,000,000,000,000の空で",
+  "base_artist": "LiGHTs",
+  "createdAt": "2025-12-12T17:46:35.009288Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "700,000,000,000,000,000,000,000の空で",
+      "artist": "LiGHTs",
+      "has_synced": false,
+      "path": "select/pl_01_700,000,000,000,000,000,000,000の空で_LiGHTs.txt"
+    }
+  ]
+}
